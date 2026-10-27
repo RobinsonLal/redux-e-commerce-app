@@ -6,8 +6,8 @@ import ProductList from './components/ProductList/ProductList';
 function App() {
   return (
     <div>
-      <NavBar/>
-      <ProductList/>
+      <NavBar />
+      <ProductList />
     </div>
   );
 }
