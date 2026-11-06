@@ -1,25 +1,25 @@
-nav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 20px;
-    background-color: #131921;
-    color: white;
-    width: 100%;
-    position: sticky;
-    z-index: 10;
-    top: 0;
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #131921;
+  color: white;
+  width: 100%;
+  position: sticky;
+  z-index: 10;
+  top: 0;
 }
 
-.rightNav{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
+.rightNav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 
-.cartQuantity{
-    color: #C7511F;
-    font-weight: 600;
-    font-size: 1.2rem;
+.cartQuantity {
+  color: #c7511f;
+  font-weight: 600;
+  font-size: 1.2rem;
 }
