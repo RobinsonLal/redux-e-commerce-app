@@ -23,7 +23,7 @@ function ProductList() {
     }
 
     if(status === 'Failed'){
-        return <h2>Something went wrong. Please check back later.</h2>
+        return <h2>Something went wrong. Please check back later...</h2>
     }
 
     return (
