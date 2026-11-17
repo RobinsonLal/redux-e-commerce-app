@@ -1,10 +1,10 @@
 import React from 'react'
 import '../SingleProduct/SingleProduct.css'
 
-import {useDispatch, useSelector} from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import { addToCart, removeFromCart } from '../../redux/cartSlice';
 
-function SingleProduct({product}) {
+function SingleProduct({ product }) {
 
   const dispatch = useDispatch();
 
